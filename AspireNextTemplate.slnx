@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AspireNextTemplate.AppHost/AspireNextTemplate.AppHost.csproj" />
+  <Project Path="AspireNextTemplate.Server/AspireNextTemplate.Server.csproj" />
+  <Project Path="frontend/frontend.esproj">
+    <Build />
+  </Project>
+</Solution>
